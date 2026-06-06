@@ -1,0 +1,939 @@
+Year,District,GDP,GrowthRate,State
+1999,Agra,4545.01,,Uttar Pradesh
+1999,Aligarh,3774.32,,Uttar Pradesh
+1999,Allahabad,5230.28,,Uttar Pradesh
+1999,Ambedkar Nagar,1276.49,,Uttar Pradesh
+1999,Auraiyya,1386.52,,Uttar Pradesh
+1999,Azamgarh,2667.54,,Uttar Pradesh
+1999,Badaun,3588.23,,Uttar Pradesh
+1999,Bagpat,1833.61,,Uttar Pradesh
+1999,Bahraich,1391.43,,Uttar Pradesh
+1999,Ballia,1874.96,,Uttar Pradesh
+1999,Balrampur,1026.22,,Uttar Pradesh
+1999,Banda,1214.05,,Uttar Pradesh
+1999,Barabanki,2455.4,,Uttar Pradesh
+1999,Bareilly,4477.63,,Uttar Pradesh
+1999,Basti,1384.02,,Uttar Pradesh
+1999,Bijnor,4261.03,,Uttar Pradesh
+1999,BulandShahar,4459.11,,Uttar Pradesh
+1999,Chandauli,1514.91,,Uttar Pradesh
+1999,Chitrakoot,502.65,,Uttar Pradesh
+1999,Deoria,1647.24,,Uttar Pradesh
+1999,Etah,2658.04,,Uttar Pradesh
+1999,Etawa,1261.56,,Uttar Pradesh
+1999,Faizabad,1525.4,,Uttar Pradesh
+1999,Farrukhabad,1514.14,,Uttar Pradesh
+1999,Fatehpur,1976.17,,Uttar Pradesh
+1999,Firozabad,2113.86,,Uttar Pradesh
+1999,Gautambudh Nagar,4508.62,,Uttar Pradesh
+1999,Ghaziabad,5884.21,,Uttar Pradesh
+1999,Ghazipur,2076.42,,Uttar Pradesh
+1999,Gonda,1634.78,,Uttar Pradesh
+1999,Gorakhpur,2919.83,,Uttar Pradesh
+1999,Hamirpur,1115.36,,Uttar Pradesh
+1999,Hardoi,2615.12,,Uttar Pradesh
+1999,Hath Ras (Mahamaya Nagar),1765.25,,Uttar Pradesh
+1999,Jalaun,1608.24,,Uttar Pradesh
+1999,Jaunpur,2533.64,,Uttar Pradesh
+1999,Jhansi,2416.61,,Uttar Pradesh
+1999,Jyotiba Phule Nagar,2208.98,,Uttar Pradesh
+1999,Kannauj,1331.61,,Uttar Pradesh
+1999,Kanpur: Rural,1715.33,,Uttar Pradesh
+1999,Kanpur: Urban,5404.55,,Uttar Pradesh
+1999,Kaushambi,953.43,,Uttar Pradesh
+1999,Kheri,3438.19,,Uttar Pradesh
+1999,Kushi Nagar,1896.98,,Uttar Pradesh
+1999,Lalitpur,891.2,,Uttar Pradesh
+1999,Lucknow,5585.9,,Uttar Pradesh
+1999,Maharajganj,1609.61,,Uttar Pradesh
+1999,Mahoba,848.84,,Uttar Pradesh
+1999,Mainpuri,1518.13,,Uttar Pradesh
+1999,Mathura,2860.62,,Uttar Pradesh
+1999,Mau,1620.92,,Uttar Pradesh
+1999,Meerut,5166.86,,Uttar Pradesh
+1999,Mirzapur,1836.49,,Uttar Pradesh
+1999,Moradabad,4615.28,,Uttar Pradesh
+1999,Muzaffarnagar,5112.72,,Uttar Pradesh
+1999,Pilibhit,1759.01,,Uttar Pradesh
+1999,Pratapgarh,1576.13,,Uttar Pradesh
+1999,Rae Bareli,2155.09,,Uttar Pradesh
+1999,Rampur,2497.94,,Uttar Pradesh
+1999,Saharanpur,4403.0,,Uttar Pradesh
+1999,Sant Kabeer Nagar,920.6,,Uttar Pradesh
+1999,Sant Ravidas Nagar,1687.79,,Uttar Pradesh
+1999,Shahjahanpur,2790.6,,Uttar Pradesh
+1999,Shravasti,664.08,,Uttar Pradesh
+1999,Siddharth Nagar,1301.93,,Uttar Pradesh
+1999,Sitapur,2903.55,,Uttar Pradesh
+1999,Sonbhadra,3766.49,,Uttar Pradesh
+1999,Sultanpur,2457.9,,Uttar Pradesh
+1999,Unnao,2166.72,,Uttar Pradesh
+1999,Varanasi,2753.3,,Uttar Pradesh
+2000,Agra,4372.74,-3.790310692,Uttar Pradesh
+2000,Aligarh,3912.89,3.671389813,Uttar Pradesh
+2000,Allahabad,5639.85,7.830747111,Uttar Pradesh
+2000,Ambedkar Nagar,1364.63,6.904871954,Uttar Pradesh
+2000,Auraiyya,1443.05,4.077113926,Uttar Pradesh
+2000,Azamgarh,2652.5,-0.56381535,Uttar Pradesh
+2000,Badaun,3244.58,-9.577145278,Uttar Pradesh
+2000,Bagpat,1962.24,7.015123172,Uttar Pradesh
+2000,Bahraich,1406.95,1.115399266,Uttar Pradesh
+2000,Ballia,1911.67,1.957908435,Uttar Pradesh
+2000,Balrampur,1174.98,14.49591705,Uttar Pradesh
+2000,Banda,1169.23,-3.691775462,Uttar Pradesh
+2000,Barabanki,2464.71,0.379164291,Uttar Pradesh
+2000,Bareilly,4540.69,1.40833432,Uttar Pradesh
+2000,Basti,1377.16,-0.495657577,Uttar Pradesh
+2000,Bijnor,4213.14,-1.123906661,Uttar Pradesh
+2000,BulandShahar,4641.58,4.092072185,Uttar Pradesh
+2000,Chandauli,1614.92,6.601712313,Uttar Pradesh
+2000,Chitrakoot,494.09,-1.702974237,Uttar Pradesh
+2000,Deoria,1688.05,2.477477477,Uttar Pradesh
+2000,Etah,2632.41,-0.96424433,Uttar Pradesh
+2000,Etawa,1211.46,-3.971273661,Uttar Pradesh
+2000,Faizabad,1638.26,7.398715091,Uttar Pradesh
+2000,Farrukhabad,1647.3,8.794431162,Uttar Pradesh
+2000,Fatehpur,1911.4,-3.277552032,Uttar Pradesh
+2000,Firozabad,2372.79,12.24915557,Uttar Pradesh
+2000,Gautambudh Nagar,4569.47,1.349636918,Uttar Pradesh
+2000,Ghaziabad,6394.74,8.676270901,Uttar Pradesh
+2000,Ghazipur,2143.7,3.240192254,Uttar Pradesh
+2000,Gonda,1682.8,2.937398304,Uttar Pradesh
+2000,Gorakhpur,3086.09,5.694167126,Uttar Pradesh
+2000,Hamirpur,1037.84,-6.95022235,Uttar Pradesh
+2000,Hardoi,2564.37,-1.940637523,Uttar Pradesh
+2000,Hath Ras (Mahamaya Nagar),1923.81,8.982297125,Uttar Pradesh
+2000,Jalaun,1455.76,-9.481171964,Uttar Pradesh
+2000,Jaunpur,2640.83,4.230672077,Uttar Pradesh
+2000,Jhansi,2574.09,6.516566595,Uttar Pradesh
+2000,Jyotiba Phule Nagar,2236.67,1.253519724,Uttar Pradesh
+2000,Kannauj,2153.57,61.72678187,Uttar Pradesh
+2000,Kanpur: Rural,1777.73,3.637783983,Uttar Pradesh
+2000,Kanpur: Urban,6052.55,11.9898974,Uttar Pradesh
+2000,Kaushambi,1060.95,11.27717819,Uttar Pradesh
+2000,Kheri,3370.62,-1.965278242,Uttar Pradesh
+2000,Kushi Nagar,1988.54,4.826619153,Uttar Pradesh
+2000,Lalitpur,887.15,-0.454443447,Uttar Pradesh
+2000,Lucknow,6700.99,19.96258436,Uttar Pradesh
+2000,Maharajganj,1550.18,-3.692198731,Uttar Pradesh
+2000,Mahoba,798.41,-5.941048961,Uttar Pradesh
+2000,Mainpuri,1596.95,5.191913736,Uttar Pradesh
+2000,Mathura,2903.6,1.502471492,Uttar Pradesh
+2000,Mau,1687.39,4.100757594,Uttar Pradesh
+2000,Meerut,5322.64,3.014983955,Uttar Pradesh
+2000,Mirzapur,1917.02,4.38499529,Uttar Pradesh
+2000,Moradabad,4250.41,-7.905695862,Uttar Pradesh
+2000,Muzaffarnagar,5107.04,-0.111095464,Uttar Pradesh
+2000,Pilibhit,2072.88,17.84355973,Uttar Pradesh
+2000,Pratapgarh,1639.91,4.04662052,Uttar Pradesh
+2000,Rae Bareli,2064.24,-4.215601205,Uttar Pradesh
+2000,Rampur,2530.97,1.322289567,Uttar Pradesh
+2000,Saharanpur,4640.64,5.397229162,Uttar Pradesh
+2000,Sant Kabeer Nagar,893.29,-2.966543559,Uttar Pradesh
+2000,Sant Ravidas Nagar,1202.5,-28.75298467,Uttar Pradesh
+2000,Shahjahanpur,2586.08,-7.328889844,Uttar Pradesh
+2000,Shravasti,753.78,13.50740875,Uttar Pradesh
+2000,Siddharth Nagar,1283.53,-1.413286429,Uttar Pradesh
+2000,Sitapur,3652.6,25.79773036,Uttar Pradesh
+2000,Sonbhadra,3282.83,-12.84113326,Uttar Pradesh
+2000,Sultanpur,2572.86,4.677163432,Uttar Pradesh
+2000,Unnao,2167.85,0.052152562,Uttar Pradesh
+2000,Varanasi,3187.34,15.7643555,Uttar Pradesh
+2001,Agra,4597.93,5.149860271,Uttar Pradesh
+2001,Aligarh,3719.35,-4.946216224,Uttar Pradesh
+2001,Allahabad,5539.63,-1.776997615,Uttar Pradesh
+2001,Ambedkar Nagar,1465.87,7.41886079,Uttar Pradesh
+2001,Auraiyya,1113.67,-22.82526593,Uttar Pradesh
+2001,Azamgarh,2779.15,4.774740811,Uttar Pradesh
+2001,Badaun,3473.48,7.054842229,Uttar Pradesh
+2001,Bagpat,1923.65,-1.966629974,Uttar Pradesh
+2001,Bahraich,1674.03,18.98290629,Uttar Pradesh
+2001,Ballia,1951.88,2.103396507,Uttar Pradesh
+2001,Balrampur,1192.19,1.464705782,Uttar Pradesh
+2001,Banda,1319.43,12.84606108,Uttar Pradesh
+2001,Barabanki,2787.6,13.10052704,Uttar Pradesh
+2001,Bareilly,4585.92,0.996104116,Uttar Pradesh
+2001,Basti,1437.73,4.398181765,Uttar Pradesh
+2001,Bijnor,4533.22,7.597184048,Uttar Pradesh
+2001,BulandShahar,4822.14,3.89005468,Uttar Pradesh
+2001,Chandauli,1775.23,9.92680752,Uttar Pradesh
+2001,Chitrakoot,548.72,11.05669008,Uttar Pradesh
+2001,Deoria,1661.1,-1.596516691,Uttar Pradesh
+2001,Etah,2710.63,2.971421625,Uttar Pradesh
+2001,Etawa,1349.21,11.37057765,Uttar Pradesh
+2001,Faizabad,1726.51,5.386812838,Uttar Pradesh
+2001,Farrukhabad,1663.33,0.973107509,Uttar Pradesh
+2001,Fatehpur,1979.05,3.539290572,Uttar Pradesh
+2001,Firozabad,2508.09,5.702148104,Uttar Pradesh
+2001,Gautambudh Nagar,4677.26,2.358916898,Uttar Pradesh
+2001,Ghaziabad,6287.59,-1.67559588,Uttar Pradesh
+2001,Ghazipur,2196.1,2.44437188,Uttar Pradesh
+2001,Gonda,1917.86,13.96838602,Uttar Pradesh
+2001,Gorakhpur,3279.48,6.266505513,Uttar Pradesh
+2001,Hamirpur,1118.7,7.791181685,Uttar Pradesh
+2001,Hardoi,2515.39,-1.910020785,Uttar Pradesh
+2001,Hath Ras (Mahamaya Nagar),1910.74,-0.67938102,Uttar Pradesh
+2001,Jalaun,1675.9,15.12199813,Uttar Pradesh
+2001,Jaunpur,2636.96,-0.146544836,Uttar Pradesh
+2001,Jhansi,2732.5,6.154019479,Uttar Pradesh
+2001,Jyotiba Phule Nagar,2382.38,6.514595358,Uttar Pradesh
+2001,Kannauj,1881.49,-12.63390556,Uttar Pradesh
+2001,Kanpur: Rural,1790.06,0.69358114,Uttar Pradesh
+2001,Kanpur: Urban,6468.42,6.870988261,Uttar Pradesh
+2001,Kaushambi,1248.73,17.69923182,Uttar Pradesh
+2001,Kheri,3482.31,3.313633694,Uttar Pradesh
+2001,Kushi Nagar,2004.14,0.784495157,Uttar Pradesh
+2001,Lalitpur,886.16,-0.111593304,Uttar Pradesh
+2001,Lucknow,6395.19,-4.563504796,Uttar Pradesh
+2001,Maharajganj,1546.46,-0.239972132,Uttar Pradesh
+2001,Mahoba,873.04,9.347327814,Uttar Pradesh
+2001,Mainpuri,1717.18,7.528726635,Uttar Pradesh
+2001,Mathura,2952.66,1.68962667,Uttar Pradesh
+2001,Mau,1694.24,0.405952388,Uttar Pradesh
+2001,Meerut,5288.72,-0.637277742,Uttar Pradesh
+2001,Mirzapur,1887.36,-1.547193039,Uttar Pradesh
+2001,Moradabad,4680.21,10.11196567,Uttar Pradesh
+2001,Muzaffarnagar,5351.55,4.787704815,Uttar Pradesh
+2001,Pilibhit,1904.19,-8.137952993,Uttar Pradesh
+2001,Pratapgarh,1706.0,4.030099213,Uttar Pradesh
+2001,Rae Bareli,2214.81,7.294209976,Uttar Pradesh
+2001,Rampur,2613.75,3.270682782,Uttar Pradesh
+2001,Saharanpur,4332.6,-6.637877534,Uttar Pradesh
+2001,Sant Kabeer Nagar,952.19,6.593603421,Uttar Pradesh
+2001,Sant Ravidas Nagar,1317.0,9.521829522,Uttar Pradesh
+2001,Shahjahanpur,2801.91,8.345836169,Uttar Pradesh
+2001,Shravasti,638.31,-15.31879328,Uttar Pradesh
+2001,Siddharth Nagar,1298.97,1.202932538,Uttar Pradesh
+2001,Sitapur,3465.2,-5.130591907,Uttar Pradesh
+2001,Sonbhadra,3453.58,5.201304972,Uttar Pradesh
+2001,Sultanpur,2628.82,2.175011466,Uttar Pradesh
+2001,Unnao,2389.52,10.22533847,Uttar Pradesh
+2001,Varanasi,3043.34,-4.517873838,Uttar Pradesh
+2002,Agra,5058.6,10.0190738,Uttar Pradesh
+2002,Aligarh,4096.34,10.13591084,Uttar Pradesh
+2002,Allahabad,5621.03,1.469412217,Uttar Pradesh
+2002,Ambedkar Nagar,1427.04,-2.648938855,Uttar Pradesh
+2002,Auraiyya,1173.62,5.383102714,Uttar Pradesh
+2002,Azamgarh,2622.8,-5.625820845,Uttar Pradesh
+2002,Badaun,3326.8,-4.222854313,Uttar Pradesh
+2002,Bagpat,2023.61,5.196371481,Uttar Pradesh
+2002,Bahraich,1628.9,-2.69588956,Uttar Pradesh
+2002,Ballia,1827.41,-6.37692891,Uttar Pradesh
+2002,Balrampur,1088.12,-8.729313281,Uttar Pradesh
+2002,Banda,1327.09,0.580553724,Uttar Pradesh
+2002,Barabanki,2614.7,-6.202468073,Uttar Pradesh
+2002,Bareilly,4614.24,0.617542391,Uttar Pradesh
+2002,Basti,1395.15,-2.961613098,Uttar Pradesh
+2002,Bijnor,4665.5,2.918014127,Uttar Pradesh
+2002,BulandShahar,5307.62,10.06772927,Uttar Pradesh
+2002,Chandauli,1757.87,-0.977901455,Uttar Pradesh
+2002,Chitrakoot,562.27,2.469383292,Uttar Pradesh
+2002,Deoria,1667.7,0.397327072,Uttar Pradesh
+2002,Etah,2866.29,5.742576449,Uttar Pradesh
+2002,Etawa,1439.66,6.703923036,Uttar Pradesh
+2002,Faizabad,1629.1,-5.642017712,Uttar Pradesh
+2002,Farrukhabad,1639.94,-1.406215243,Uttar Pradesh
+2002,Fatehpur,1842.67,-6.891185165,Uttar Pradesh
+2002,Firozabad,2566.68,2.336040573,Uttar Pradesh
+2002,Gautambudh Nagar,4571.72,-2.256449289,Uttar Pradesh
+2002,Ghaziabad,6488.39,3.193592458,Uttar Pradesh
+2002,Ghazipur,2170.24,-1.177542006,Uttar Pradesh
+2002,Gonda,1927.5,0.502643571,Uttar Pradesh
+2002,Gorakhpur,3347.39,2.07075512,Uttar Pradesh
+2002,Hamirpur,1181.87,5.646732815,Uttar Pradesh
+2002,Hardoi,2624.31,4.330143636,Uttar Pradesh
+2002,Hath Ras (Mahamaya Nagar),2034.18,6.460324272,Uttar Pradesh
+2002,Jalaun,1768.28,5.512262068,Uttar Pradesh
+2002,Jaunpur,2568.41,-2.59958437,Uttar Pradesh
+2002,Jhansi,2805.42,2.668618481,Uttar Pradesh
+2002,Jyotiba Phule Nagar,2604.97,9.343177831,Uttar Pradesh
+2002,Kannauj,1450.51,-22.90631361,Uttar Pradesh
+2002,Kanpur: Rural,1761.88,-1.574248908,Uttar Pradesh
+2002,Kanpur: Urban,6804.9,5.20188856,Uttar Pradesh
+2002,Kaushambi,1195.51,-4.261930121,Uttar Pradesh
+2002,Kheri,3642.5,4.6001074,Uttar Pradesh
+2002,Kushi Nagar,2057.87,2.680950433,Uttar Pradesh
+2002,Lalitpur,856.92,-3.299629864,Uttar Pradesh
+2002,Lucknow,8868.54,38.67516055,Uttar Pradesh
+2002,Maharajganj,1626.05,5.146592864,Uttar Pradesh
+2002,Mahoba,909.91,4.223174196,Uttar Pradesh
+2002,Mainpuri,1676.06,-2.394623744,Uttar Pradesh
+2002,Mathura,3093.96,4.785515434,Uttar Pradesh
+2002,Mau,1762.27,4.015369723,Uttar Pradesh
+2002,Meerut,5266.38,-0.422408447,Uttar Pradesh
+2002,Mirzapur,1826.0,-3.251102068,Uttar Pradesh
+2002,Moradabad,4765.73,1.827268435,Uttar Pradesh
+2002,Muzaffarnagar,5451.46,1.866935748,Uttar Pradesh
+2002,Pilibhit,1972.68,3.596804941,Uttar Pradesh
+2002,Pratapgarh,1708.56,0.150058617,Uttar Pradesh
+2002,Rae Bareli,2164.81,-2.257529991,Uttar Pradesh
+2002,Rampur,2548.78,-2.485700622,Uttar Pradesh
+2002,Saharanpur,4678.19,7.976503716,Uttar Pradesh
+2002,Sant Kabeer Nagar,943.93,-0.867473929,Uttar Pradesh
+2002,Sant Ravidas Nagar,1291.94,-1.902809415,Uttar Pradesh
+2002,Shahjahanpur,2637.07,-5.883129722,Uttar Pradesh
+2002,Shravasti,557.66,-12.6349266,Uttar Pradesh
+2002,Siddharth Nagar,1244.49,-4.194092242,Uttar Pradesh
+2002,Sitapur,3413.5,-1.491977375,Uttar Pradesh
+2002,Sonbhadra,3939.52,14.07061658,Uttar Pradesh
+2002,Sultanpur,2547.09,-3.108999475,Uttar Pradesh
+2002,Unnao,3121.87,30.64841474,Uttar Pradesh
+2002,Varanasi,3249.38,6.770193274,Uttar Pradesh
+2003,Agra,5421.66,7.177084569,Uttar Pradesh
+2003,Aligarh,4296.58,4.888266111,Uttar Pradesh
+2003,Allahabad,6116.85,8.820803305,Uttar Pradesh
+2003,Ambedkar Nagar,1605.11,12.47827671,Uttar Pradesh
+2003,Auraiyya,1221.24,4.057531399,Uttar Pradesh
+2003,Azamgarh,2955.54,12.68644197,Uttar Pradesh
+2003,Badaun,3587.55,7.83786221,Uttar Pradesh
+2003,Bagpat,2132.58,5.384930891,Uttar Pradesh
+2003,Bahraich,1709.38,4.940757566,Uttar Pradesh
+2003,Ballia,2019.05,10.48697337,Uttar Pradesh
+2003,Balrampur,1305.0,19.93162519,Uttar Pradesh
+2003,Banda,1515.91,14.22812319,Uttar Pradesh
+2003,Barabanki,2858.51,9.324587907,Uttar Pradesh
+2003,Bareilly,4886.76,5.906064704,Uttar Pradesh
+2003,Basti,1470.89,5.428806938,Uttar Pradesh
+2003,Bijnor,4793.31,2.739470582,Uttar Pradesh
+2003,BulandShahar,5073.45,-4.411958656,Uttar Pradesh
+2003,Chandauli,1879.77,6.934528719,Uttar Pradesh
+2003,Chitrakoot,609.4,8.382094012,Uttar Pradesh
+2003,Deoria,1706.65,2.335551958,Uttar Pradesh
+2003,Etah,3015.73,5.213708313,Uttar Pradesh
+2003,Etawa,1501.28,4.280177264,Uttar Pradesh
+2003,Faizabad,1902.74,16.79700448,Uttar Pradesh
+2003,Farrukhabad,1600.6,-2.398868251,Uttar Pradesh
+2003,Fatehpur,1948.83,5.761205208,Uttar Pradesh
+2003,Firozabad,2590.58,0.931163994,Uttar Pradesh
+2003,Gautambudh Nagar,4984.51,9.029205638,Uttar Pradesh
+2003,Ghaziabad,6779.79,4.491098716,Uttar Pradesh
+2003,Ghazipur,2299.67,5.963856532,Uttar Pradesh
+2003,Gonda,2081.09,7.968352789,Uttar Pradesh
+2003,Gorakhpur,3571.97,6.709107693,Uttar Pradesh
+2003,Hamirpur,1219.31,3.167861101,Uttar Pradesh
+2003,Hardoi,2947.62,12.31980978,Uttar Pradesh
+2003,Hath Ras (Mahamaya Nagar),2125.13,4.471089087,Uttar Pradesh
+2003,Jalaun,1863.13,5.363969507,Uttar Pradesh
+2003,Jaunpur,2685.47,4.557683547,Uttar Pradesh
+2003,Jhansi,2925.12,4.266740809,Uttar Pradesh
+2003,Jyotiba Phule Nagar,2762.1,6.03193127,Uttar Pradesh
+2003,Kannauj,1354.16,-6.642491262,Uttar Pradesh
+2003,Kanpur: Rural,1911.68,8.502281654,Uttar Pradesh
+2003,Kanpur: Urban,7147.67,5.037105615,Uttar Pradesh
+2003,Kaushambi,1273.53,6.526085102,Uttar Pradesh
+2003,Kheri,3597.32,-1.240356898,Uttar Pradesh
+2003,Kushi Nagar,2127.09,3.363672146,Uttar Pradesh
+2003,Lalitpur,1014.52,18.39144844,Uttar Pradesh
+2003,Lucknow,7793.91,-12.11732709,Uttar Pradesh
+2003,Maharajganj,1685.61,3.662863996,Uttar Pradesh
+2003,Mahoba,980.49,7.756811113,Uttar Pradesh
+2003,Mainpuri,1724.41,2.884741596,Uttar Pradesh
+2003,Mathura,3265.47,5.543381298,Uttar Pradesh
+2003,Mau,1859.31,5.506534186,Uttar Pradesh
+2003,Meerut,5777.28,9.701160949,Uttar Pradesh
+2003,Mirzapur,1956.62,7.153340635,Uttar Pradesh
+2003,Moradabad,5052.54,6.0181756,Uttar Pradesh
+2003,Muzaffarnagar,5671.71,4.040202074,Uttar Pradesh
+2003,Pilibhit,1947.12,-1.295699252,Uttar Pradesh
+2003,Pratapgarh,1885.79,10.3730627,Uttar Pradesh
+2003,Rae Bareli,2255.84,4.204987967,Uttar Pradesh
+2003,Rampur,2585.84,1.454028986,Uttar Pradesh
+2003,Saharanpur,5161.47,10.33049107,Uttar Pradesh
+2003,Sant Kabeer Nagar,1052.9,11.54428824,Uttar Pradesh
+2003,Sant Ravidas Nagar,1399.99,8.363391489,Uttar Pradesh
+2003,Shahjahanpur,2904.23,10.13094078,Uttar Pradesh
+2003,Shravasti,737.96,32.33152817,Uttar Pradesh
+2003,Siddharth Nagar,1487.36,19.51562487,Uttar Pradesh
+2003,Sitapur,3748.1,9.802255749,Uttar Pradesh
+2003,Sonbhadra,3974.29,0.882594834,Uttar Pradesh
+2003,Sultanpur,2792.68,9.641983597,Uttar Pradesh
+2003,Unnao,2747.74,-11.98416334,Uttar Pradesh
+2003,Varanasi,3549.53,9.237146779,Uttar Pradesh
+2004,Agra,5915.91,9.11621164,Uttar Pradesh
+2004,Aligarh,4522.32,5.253946162,Uttar Pradesh
+2004,Allahabad,6105.17,-0.190947955,Uttar Pradesh
+2004,Ambedkar Nagar,1625.66,1.280286086,Uttar Pradesh
+2004,Hath Ras (Mahamaya Nagar),2206.17,3.813413768,Uttar Pradesh
+2004,Jyotiba Phule Nagar,2853.98,3.326454509,Uttar Pradesh
+2005,Agra,6309.36,6.650709696,Uttar Pradesh
+2005,Aligarh,4817.18,6.520104725,Uttar Pradesh
+2005,Allahabad,6638.74,8.739641976,Uttar Pradesh
+2005,Ambedkar Nagar,1793.54,10.32688262,Uttar Pradesh
+2005,Hath Ras (Mahamaya Nagar),2118.92,-3.954817625,Uttar Pradesh
+2005,Jyotiba Phule Nagar,2880.8,0.939740293,Uttar Pradesh
+2004, Agra,"7,101.89",,Uttar Pradesh
+2004, Aligarh,"5,434.82",,Uttar Pradesh
+2004, Allahabad,"7,847.18",,Uttar Pradesh
+2004, Ambedkar Nagar,"1,906.25",,Uttar Pradesh
+2004, Amethi,,,Uttar Pradesh
+2004, Amorha,"3,596.34",,Uttar Pradesh
+2004,Auraiyya,"1,473.03",,Uttar Pradesh
+2004,Azamgarh,"3,417.70",,Uttar Pradesh
+2004,Badaun,"4,263.14",,Uttar Pradesh
+2004,Bagpat,"2,907.27",,Uttar Pradesh
+2004,Bahraich,"2,590.73",,Uttar Pradesh
+2004,Ballia,"2,359.45",,Uttar Pradesh
+2004,Balrampur,"1,978.89",,Uttar Pradesh
+2004,Banda,"1,891.85",,Uttar Pradesh
+2004,Barabanki,"4,795.01",,Uttar Pradesh
+2004,Bareilly,"6,136.90",,Uttar Pradesh
+2004,Basti,"2,086.17",,Uttar Pradesh
+2004,Bijnor,"6,668.45",,Uttar Pradesh
+2004,BulandShahar,"6,879.96",,Uttar Pradesh
+2004,Chandauli,"2,075.06",,Uttar Pradesh
+2004,Chitrakoot,749.71,,Uttar Pradesh
+2004,Deoria,"2,418.19",,Uttar Pradesh
+2004,Etah,"4,067.12",,Uttar Pradesh
+2004,Etawa,"1,996.44",,Uttar Pradesh
+2004,Faizabad,"2,310.48",,Uttar Pradesh
+2004,Farrukhabad,"2,345.23",,Uttar Pradesh
+2004,Fatehpur,"2,660.54",,Uttar Pradesh
+2004,Firozabad,"3,048.03",,Uttar Pradesh
+2004,Gautambudh Nagar,"7,353.30",,Uttar Pradesh
+2004,Ghaziabad,"8,927.14",,Uttar Pradesh
+2004,Ghazipur,"2,942.22",,Uttar Pradesh
+2004,Gonda,"2,793.29",,Uttar Pradesh
+2004,Gorakhpur,"4,636.91",,Uttar Pradesh
+2004,Hamirpur,"1,547.84",,Uttar Pradesh
+2004,Hardoi,"3,725.40",,Uttar Pradesh
+2004,Hathras,"2,598.40",,Uttar Pradesh
+2004,Jalaun,"2,595.81",,Uttar Pradesh
+2004,Jaunpur,"3,398.03",,Uttar Pradesh
+2004,Jhansi,"3,758.01",,Uttar Pradesh
+2004,Kannauj,"1,866.20",,Uttar Pradesh
+2004,Kanpur: Rural,"1,888.86",,Uttar Pradesh
+2004,Kanpur: Urban,"9,867.24",,Uttar Pradesh
+2004,Kanshiram Nagar,0,,Uttar Pradesh
+2004,Kaushambi,"1,665.68",,Uttar Pradesh
+2004,Kheri,"4,943.91",,Uttar Pradesh
+2004,Kushi Nagar,"2,747.22",,Uttar Pradesh
+2004,Lalitpur,"1,516.66",,Uttar Pradesh
+2004,Lucknow,"11,022.71",,Uttar Pradesh
+2004,Maharajganj,"2,121.30",,Uttar Pradesh
+2004,Mahoba,"1,329.19",,Uttar Pradesh
+2004,Mainpuri,"2,142.18",,Uttar Pradesh
+2004,Mathura,"4,053.88",,Uttar Pradesh
+2004,Mau,"2,181.34",,Uttar Pradesh
+2004,Meerut,"7,176.06",,Uttar Pradesh
+2004,Mirzapur,"2,273.74",,Uttar Pradesh
+2004,Moradabad,"6,458.19",,Uttar Pradesh
+2004,Muzaffarnagar,"7,249.90",,Uttar Pradesh
+2004,Pilibhit,"3,240.67",,Uttar Pradesh
+2004,Pratapgarh,"2,380.61",,Uttar Pradesh
+2004,Rae Bareli,"3,242.59",,Uttar Pradesh
+2004,Rampur,"3,031.40",,Uttar Pradesh
+2004,Saharanpur,"6,314.72",,Uttar Pradesh
+2004,Sant Kabeer Nagar,"1,326.62",,Uttar Pradesh
+2004,Sant Ravidas Nagar,"1,622.83",,Uttar Pradesh
+2004,Shahjahanpur,"3,708.07",,Uttar Pradesh
+2004,Shravasti,"1,278.24",,Uttar Pradesh
+2004,Siddharth Nagar,"1,655.23",,Uttar Pradesh
+2004,Sitapur,"4,843.20",,Uttar Pradesh
+2004,Sonbhadra,"3,920.12",,Uttar Pradesh
+2004,Sultanpur,"4,123.21",,Uttar Pradesh
+2004,Unnao,"3,813.71",,Uttar Pradesh
+2004,Varanasi,"4,365.39",,Uttar Pradesh
+2005, Agra,"7,770.26",9.411156748,Uttar Pradesh
+2005, Aligarh,"5,840.61",7.466484631,Uttar Pradesh
+2005, Allahabad,"8,471.30",7.953430404,Uttar Pradesh
+2005, Ambedkar Nagar,"2,171.11",13.89429508,Uttar Pradesh
+2005, Amethi,,,Uttar Pradesh
+2005, Amorha,"3,667.68",1.983683411,Uttar Pradesh
+2005,Auraiyya,"1,632.60",10.83277326,Uttar Pradesh
+2005,Azamgarh,"3,992.32",16.81306142,Uttar Pradesh
+2005,Badaun,"5,120.55",20.11217084,Uttar Pradesh
+2005,Bagpat,"2,855.07",-1.79549887,Uttar Pradesh
+2005,Bahraich,"2,774.10",7.077927843,Uttar Pradesh
+2005,Ballia,"2,719.46",15.25821696,Uttar Pradesh
+2005,Balrampur,"1,992.72",0.698876643,Uttar Pradesh
+2005,Banda,"1,987.92",5.078098158,Uttar Pradesh
+2005,Barabanki,"4,622.29",-3.602077994,Uttar Pradesh
+2005,Bareilly,"6,511.27",6.100311232,Uttar Pradesh
+2005,Basti,"2,215.82",6.214738013,Uttar Pradesh
+2005,Bijnor,"6,901.40",3.493315538,Uttar Pradesh
+2005,BulandShahar,"6,628.83",-3.650166571,Uttar Pradesh
+2005,Chandauli,"2,255.85",8.712519156,Uttar Pradesh
+2005,Chitrakoot,795.06,6.049005616,Uttar Pradesh
+2005,Deoria,"2,419.45",0.052105087,Uttar Pradesh
+2005,Etah,"4,427.70",8.865733,Uttar Pradesh
+2005,Etawa,"1,936.16",-3.019374487,Uttar Pradesh
+2005,Faizabad,"2,599.77",12.5207749,Uttar Pradesh
+2005,Farrukhabad,"2,502.01",6.685058608,Uttar Pradesh
+2005,Fatehpur,"2,833.40",6.497177265,Uttar Pradesh
+2005,Firozabad,"3,354.09",10.04123975,Uttar Pradesh
+2005,Gautambudh Nagar,"7,527.62",2.370636313,Uttar Pradesh
+2005,Ghaziabad,"9,768.43",9.423958849,Uttar Pradesh
+2005,Ghazipur,"3,332.25",13.25631666,Uttar Pradesh
+2005,Gonda,"3,110.61",11.36008076,Uttar Pradesh
+2005,Gorakhpur,"4,872.70",5.085067426,Uttar Pradesh
+2005,Hamirpur,"1,641.75",6.067164565,Uttar Pradesh
+2005,Hardoi,"4,057.76",8.921458098,Uttar Pradesh
+2005,Hathras,"2,656.39",2.231758005,Uttar Pradesh
+2005,Jalaun,"2,567.56",-1.088292286,Uttar Pradesh
+2005,Jaunpur,"3,727.20",9.687083398,Uttar Pradesh
+2005,Jhansi,"3,840.71",2.200632782,Uttar Pradesh
+2005,Kannauj,"2,028.03",8.671632194,Uttar Pradesh
+2005,Kanpur: Rural,"2,324.64",23.07105873,Uttar Pradesh
+2005,Kanpur: Urban,"10,435.47",5.758753208,Uttar Pradesh
+2005,Kanshiram Nagar,0,,Uttar Pradesh
+2005,Kaushambi,"1,870.72",12.30968733,Uttar Pradesh
+2005,Kheri,"5,094.12",3.038283464,Uttar Pradesh
+2005,Kushi Nagar,"2,827.31",2.915310751,Uttar Pradesh
+2005,Lalitpur,"1,527.18",0.693629423,Uttar Pradesh
+2005,Lucknow,"10,940.02",-0.750178495,Uttar Pradesh
+2005,Maharajganj,"2,027.91",-4.40248904,Uttar Pradesh
+2005,Mahoba,"1,254.11",-5.648552878,Uttar Pradesh
+2005,Mainpuri,"2,347.33",9.576692902,Uttar Pradesh
+2005,Mathura,"4,620.37",13.97401995,Uttar Pradesh
+2005,Mau,"2,712.97",24.37171647,Uttar Pradesh
+2005,Meerut,"8,159.89",13.70989094,Uttar Pradesh
+2005,Mirzapur,"2,486.63",9.362987853,Uttar Pradesh
+2005,Moradabad,"6,809.54",5.440378806,Uttar Pradesh
+2005,Muzaffarnagar,"7,772.79",7.212375343,Uttar Pradesh
+2005,Pilibhit,"3,534.47",9.06602647,Uttar Pradesh
+2005,Pratapgarh,"2,542.54",6.802038133,Uttar Pradesh
+2005,Rae Bareli,"3,374.52",4.068661163,Uttar Pradesh
+2005,Rampur,"3,108.43",2.541070133,Uttar Pradesh
+2005,Saharanpur,"6,906.34",9.368903134,Uttar Pradesh
+2005,Sant Kabeer Nagar,"1,363.05",2.746076495,Uttar Pradesh
+2005,Sant Ravidas Nagar,"1,703.34",4.961086497,Uttar Pradesh
+2005,Shahjahanpur,"3,787.72",2.148017702,Uttar Pradesh
+2005,Shravasti,"1,110.52",-13.1211666,Uttar Pradesh
+2005,Siddharth Nagar,"2,044.46",23.51516104,Uttar Pradesh
+2005,Sitapur,"4,949.76",2.200198216,Uttar Pradesh
+2005,Sonbhadra,"4,571.91",16.62678694,Uttar Pradesh
+2005,Sultanpur,"3,957.90",-4.009254925,Uttar Pradesh
+2005,Unnao,"4,078.94",6.954645214,Uttar Pradesh
+2005,Varanasi,"4,575.57",4.814690096,Uttar Pradesh
+2006, Agra,"8,441.22",8.634974891,Uttar Pradesh
+2006, Aligarh,"6,382.80",9.283105703,Uttar Pradesh
+2006, Allahabad,"8,776.01",3.596968588,Uttar Pradesh
+2006, Ambedkar Nagar,"2,341.90",7.866483043,Uttar Pradesh
+2006, Amethi,,,Uttar Pradesh
+2006, Amorha,"3,623.49",-1.204848842,Uttar Pradesh
+2006,Auraiyya,"1,734.42",6.236677692,Uttar Pradesh
+2006,Azamgarh,"4,278.19",7.160498156,Uttar Pradesh
+2006,Badaun,"5,195.83",1.470154573,Uttar Pradesh
+2006,Bagpat,"3,067.56",7.44254957,Uttar Pradesh
+2006,Bahraich,"2,924.87",5.434915829,Uttar Pradesh
+2006,Ballia,"2,909.24",6.978591338,Uttar Pradesh
+2006,Balrampur,"2,223.19",11.56559878,Uttar Pradesh
+2006,Banda,"2,102.93",5.785444082,Uttar Pradesh
+2006,Barabanki,"4,710.74",1.913553671,Uttar Pradesh
+2006,Bareilly,"6,816.16",4.682496656,Uttar Pradesh
+2006,Basti,"2,361.44",6.571833452,Uttar Pradesh
+2006,Bijnor,"7,166.34",3.838931231,Uttar Pradesh
+2006,BulandShahar,"7,434.11",12.14814681,Uttar Pradesh
+2006,Chandauli,"2,460.32",9.063989184,Uttar Pradesh
+2006,Chitrakoot,758.16,-4.641159158,Uttar Pradesh
+2006,Deoria,"2,587.97",6.965219368,Uttar Pradesh
+2006,Etah,"4,588.65",3.635070127,Uttar Pradesh
+2006,Etawa,"2,105.16",8.72861747,Uttar Pradesh
+2006,Faizabad,"2,682.82",3.194513361,Uttar Pradesh
+2006,Farrukhabad,"2,555.31",2.130287249,Uttar Pradesh
+2006,Fatehpur,"2,957.77",4.389426131,Uttar Pradesh
+2006,Firozabad,"3,692.81",10.0987153,Uttar Pradesh
+2006,Gautambudh Nagar,"11,730.19",55.82866829,Uttar Pradesh
+2006,Ghaziabad,"11,607.27",18.82431465,Uttar Pradesh
+2006,Ghazipur,"3,577.38",7.356290795,Uttar Pradesh
+2006,Gonda,"3,185.40",2.404351558,Uttar Pradesh
+2006,Gorakhpur,"5,348.51",9.764812116,Uttar Pradesh
+2006,Hamirpur,"1,639.91",-0.112075529,Uttar Pradesh
+2006,Hardoi,"4,332.87",6.779848981,Uttar Pradesh
+2006,Hathras,"2,930.90",10.33394946,Uttar Pradesh
+2006,Jalaun,"2,809.57",9.425680413,Uttar Pradesh
+2006,Jaunpur,"3,902.77",4.710506546,Uttar Pradesh
+2006,Jhansi,"4,102.22",6.808897313,Uttar Pradesh
+2006,Kannauj,"2,333.16",15.04563542,Uttar Pradesh
+2006,Kanpur: Rural,"2,464.55",6.018566316,Uttar Pradesh
+2006,Kanpur: Urban,"11,223.67",7.553085774,Uttar Pradesh
+2006,Kanshiram Nagar,0,,Uttar Pradesh
+2006,Kaushambi,"1,864.96",-0.30790284,Uttar Pradesh
+2006,Kheri,"5,362.44",5.267249299,Uttar Pradesh
+2006,Kushi Nagar,"3,042.64",7.616073229,Uttar Pradesh
+2006,Lalitpur,"1,750.47",14.62106628,Uttar Pradesh
+2006,Lucknow,"12,030.36",9.966526569,Uttar Pradesh
+2006,Maharajganj,"2,322.24",14.51395772,Uttar Pradesh
+2006,Mahoba,"1,361.62",8.572613248,Uttar Pradesh
+2006,Mainpuri,"2,527.17",7.661470692,Uttar Pradesh
+2006,Mathura,"5,314.62",15.02585291,Uttar Pradesh
+2006,Mau,"2,355.19",-13.18776101,Uttar Pradesh
+2006,Meerut,"8,573.92",5.073965458,Uttar Pradesh
+2006,Mirzapur,"2,773.13",11.52161761,Uttar Pradesh
+2006,Moradabad,"7,598.33",11.58360183,Uttar Pradesh
+2006,Muzaffarnagar,"8,052.60",3.599865685,Uttar Pradesh
+2006,Pilibhit,"3,661.70",3.599691043,Uttar Pradesh
+2006,Pratapgarh,"2,620.63",3.071338111,Uttar Pradesh
+2006,Rae Bareli,"3,543.05",4.994191767,Uttar Pradesh
+2006,Rampur,"3,337.29",7.362559234,Uttar Pradesh
+2006,Saharanpur,"6,851.28",-0.797238479,Uttar Pradesh
+2006,Sant Kabeer Nagar,"1,267.81",-6.987271193,Uttar Pradesh
+2006,Sant Ravidas Nagar,"2,140.95",25.69128888,Uttar Pradesh
+2006,Shahjahanpur,"4,113.89",8.611248984,Uttar Pradesh
+2006,Shravasti,"1,316.56",18.55347045,Uttar Pradesh
+2006,Siddharth Nagar,"2,101.83",2.806119953,Uttar Pradesh
+2006,Sitapur,"5,627.05",13.68328969,Uttar Pradesh
+2006,Sonbhadra,"4,459.49",-2.458928544,Uttar Pradesh
+2006,Sultanpur,"4,013.56",1.406301321,Uttar Pradesh
+2006,Unnao,"4,285.90",5.07386723,Uttar Pradesh
+2006,Varanasi,"5,132.50",12.17181684,Uttar Pradesh
+2007, Agra,"9,143.43",8.318821213,Uttar Pradesh
+2007, Aligarh,"6,679.98",4.655950367,Uttar Pradesh
+2007, Allahabad,"9,942.38",13.29043609,Uttar Pradesh
+2007, Ambedkar Nagar,"2,589.13",10.55681284,Uttar Pradesh
+2007, Amethi,,,Uttar Pradesh
+2007, Amorha,"3,904.71",7.761025972,Uttar Pradesh
+2007,Auraiyya,"2,142.50",23.52832647,Uttar Pradesh
+2007,Azamgarh,"4,264.95",-0.309476671,Uttar Pradesh
+2007,Badaun,"5,996.27",15.40543089,Uttar Pradesh
+2007,Bagpat,"3,287.82",7.180299652,Uttar Pradesh
+2007,Bahraich,"3,003.90",2.702000431,Uttar Pradesh
+2007,Ballia,"3,244.73",11.53187774,Uttar Pradesh
+2007,Balrampur,"2,185.79",-1.682267373,Uttar Pradesh
+2007,Banda,"2,094.77",-0.388030034,Uttar Pradesh
+2007,Barabanki,"4,929.10",4.635365144,Uttar Pradesh
+2007,Bareilly,"7,578.43",11.18327621,Uttar Pradesh
+2007,Basti,"2,501.26",5.92096348,Uttar Pradesh
+2007,Bijnor,"8,477.40",18.29469436,Uttar Pradesh
+2007,BulandShahar,"7,872.47",5.896603628,Uttar Pradesh
+2007,Chandauli,"2,661.70",8.185114131,Uttar Pradesh
+2007,Chitrakoot,789.94,4.19172734,Uttar Pradesh
+2007,Deoria,"2,859.00",10.47268709,Uttar Pradesh
+2007,Etah,"5,028.99",9.596286489,Uttar Pradesh
+2007,Etawa,"2,266.24",7.651674932,Uttar Pradesh
+2007,Faizabad,"3,091.21",15.22241522,Uttar Pradesh
+2007,Farrukhabad,"2,733.23",6.962755987,Uttar Pradesh
+2007,Fatehpur,"3,303.88",11.70172123,Uttar Pradesh
+2007,Firozabad,"3,945.38",6.839507042,Uttar Pradesh
+2007,Gautambudh Nagar,"12,628.99",7.66227998,Uttar Pradesh
+2007,Ghaziabad,"12,478.57",7.50650239,Uttar Pradesh
+2007,Ghazipur,"3,818.66",6.744600797,Uttar Pradesh
+2007,Gonda,"3,336.22",4.734727193,Uttar Pradesh
+2007,Gorakhpur,"5,759.51",7.684383127,Uttar Pradesh
+2007,Hamirpur,"1,614.64",-1.540938222,Uttar Pradesh
+2007,Hardoi,"4,571.40",5.505127087,Uttar Pradesh
+2007,Hathras,"3,233.09",10.31048483,Uttar Pradesh
+2007,Jalaun,"2,620.64",-6.724516563,Uttar Pradesh
+2007,Jaunpur,"4,264.79",9.275975781,Uttar Pradesh
+2007,Jhansi,"4,515.24",10.06820697,Uttar Pradesh
+2007,Kannauj,"2,392.19",2.530045089,Uttar Pradesh
+2007,Kanpur: Rural,"2,681.73",8.812156377,Uttar Pradesh
+2007,Kanpur: Urban,"12,057.71",7.431080921,Uttar Pradesh
+2007,Kanshiram Nagar,0,,Uttar Pradesh
+2007,Kaushambi,"1,992.39",6.832854324,Uttar Pradesh
+2007,Kheri,"5,391.24",0.537068946,Uttar Pradesh
+2007,Kushi Nagar,"3,274.32",7.614440091,Uttar Pradesh
+2007,Lalitpur,"1,570.71",-10.26924198,Uttar Pradesh
+2007,Lucknow,"12,840.35",6.732882474,Uttar Pradesh
+2007,Maharajganj,"2,399.11",3.310166047,Uttar Pradesh
+2007,Mahoba,"1,238.51",-9.041435937,Uttar Pradesh
+2007,Mainpuri,"2,567.77",1.606540122,Uttar Pradesh
+2007,Mathura,"5,878.89",10.61731601,Uttar Pradesh
+2007,Mau,"2,608.93",10.77365308,Uttar Pradesh
+2007,Meerut,"9,174.14",7.000531845,Uttar Pradesh
+2007,Mirzapur,"2,961.16",6.780425007,Uttar Pradesh
+2007,Moradabad,"8,150.95",7.272913917,Uttar Pradesh
+2007,Muzaffarnagar,"8,387.25",4.155800611,Uttar Pradesh
+2007,Pilibhit,"4,185.30",14.29936915,Uttar Pradesh
+2007,Pratapgarh,"2,842.52",8.467048,Uttar Pradesh
+2007,Rae Bareli,"3,838.39",8.335755917,Uttar Pradesh
+2007,Rampur,"4,024.69",20.59755071,Uttar Pradesh
+2007,Saharanpur,"7,339.26",7.122464707,Uttar Pradesh
+2007,Sant Kabeer Nagar,"1,397.01",10.19080146,Uttar Pradesh
+2007,Sant Ravidas Nagar,"2,339.56",9.27672295,Uttar Pradesh
+2007,Shahjahanpur,"4,936.29",19.99081162,Uttar Pradesh
+2007,Shravasti,977.03,-25.78917786,Uttar Pradesh
+2007,Siddharth Nagar,"2,221.83",5.709310458,Uttar Pradesh
+2007,Sitapur,"6,057.86",7.656054238,Uttar Pradesh
+2007,Sonbhadra,"4,642.95",4.113923341,Uttar Pradesh
+2007,Sultanpur,"4,500.63",12.13561028,Uttar Pradesh
+2007,Unnao,"4,608.56",7.528407102,Uttar Pradesh
+2007,Varanasi,"4,798.89",-6.499951291,Uttar Pradesh
+2008, Agra,"9,684.15",5.913754466,Uttar Pradesh
+2008, Aligarh,"7,230.24",8.237449813,Uttar Pradesh
+2008, Allahabad,"10,481.56",5.4230476,Uttar Pradesh
+2008, Ambedkar Nagar,"2,864.45",10.63368776,Uttar Pradesh
+2008, Amethi,,,Uttar Pradesh
+2008, Amorha,"4,268.96",9.328477659,Uttar Pradesh
+2008,Auraiyya,"2,371.08",10.66884481,Uttar Pradesh
+2008,Azamgarh,"4,730.12",10.90681016,Uttar Pradesh
+2008,Badaun,"6,414.26",6.970833535,Uttar Pradesh
+2008,Bagpat,"3,472.15",5.606450475,Uttar Pradesh
+2008,Bahraich,"3,168.77",5.488531576,Uttar Pradesh
+2008,Ballia,"3,517.27",8.399466211,Uttar Pradesh
+2008,Balrampur,"2,263.37",3.549288815,Uttar Pradesh
+2008,Banda,"2,445.88",16.76126735,Uttar Pradesh
+2008,Barabanki,"4,671.32",-5.229757968,Uttar Pradesh
+2008,Bareilly,"7,950.44",4.908800372,Uttar Pradesh
+2008,Basti,"2,535.29",1.360514301,Uttar Pradesh
+2008,Bijnor,"8,479.08",0.019817397,Uttar Pradesh
+2008,BulandShahar,"8,333.73",5.85915221,Uttar Pradesh
+2008,Chandauli,"2,884.58",8.373595822,Uttar Pradesh
+2008,Chitrakoot,"1,020.94",29.2427273,Uttar Pradesh
+2008,Deoria,"2,991.92",4.649178034,Uttar Pradesh
+2008,Etah,"3,251.19",-35.3510347,Uttar Pradesh
+2008,Etawa,"2,416.26",6.619775487,Uttar Pradesh
+2008,Faizabad,"3,529.43",14.17632578,Uttar Pradesh
+2008,Farrukhabad,"2,887.08",5.628871335,Uttar Pradesh
+2008,Fatehpur,"3,586.40",8.551158032,Uttar Pradesh
+2008,Firozabad,"4,233.16",7.294100948,Uttar Pradesh
+2008,Gautambudh Nagar,"13,111.40",3.819862079,Uttar Pradesh
+2008,Ghaziabad,"13,128.39",5.207487717,Uttar Pradesh
+2008,Ghazipur,"4,020.92",5.296622375,Uttar Pradesh
+2008,Gonda,"3,456.78",3.613670561,Uttar Pradesh
+2008,Gorakhpur,"6,193.67",7.538141265,Uttar Pradesh
+2008,Hamirpur,"1,925.74",19.26745281,Uttar Pradesh
+2008,Hardoi,"4,770.48",4.354902218,Uttar Pradesh
+2008,Hathras,"3,322.93",2.778765825,Uttar Pradesh
+2008,Jalaun,"3,153.75",20.3427407,Uttar Pradesh
+2008,Jaunpur,"4,584.46",7.495562501,Uttar Pradesh
+2008,Jhansi,"5,066.15",12.20112331,Uttar Pradesh
+2008,Kannauj,"2,575.05",7.644041652,Uttar Pradesh
+2008,Kanpur: Rural,"2,882.61",7.490686982,Uttar Pradesh
+2008,Kanpur: Urban,"13,232.20",9.740572629,Uttar Pradesh
+2008,Kanshiram Nagar,"2,343.93",,Uttar Pradesh
+2008,Kaushambi,"2,098.09",5.305186234,Uttar Pradesh
+2008,Kheri,"5,447.86",1.050222212,Uttar Pradesh
+2008,Kushi Nagar,"3,459.26",5.648195656,Uttar Pradesh
+2008,Lalitpur,"2,081.76",32.53624157,Uttar Pradesh
+2008,Lucknow,"13,775.24",7.2808763,Uttar Pradesh
+2008,Maharajganj,"2,542.21",5.964711914,Uttar Pradesh
+2008,Mahoba,"1,711.31",38.17490371,Uttar Pradesh
+2008,Mainpuri,"2,878.75",12.11089778,Uttar Pradesh
+2008,Mathura,"6,210.71",5.644262777,Uttar Pradesh
+2008,Mau,"2,776.07",6.40645782,Uttar Pradesh
+2008,Meerut,"9,385.94",2.308663264,Uttar Pradesh
+2008,Mirzapur,"3,192.59",7.815518243,Uttar Pradesh
+2008,Moradabad,"9,052.98",11.06656279,Uttar Pradesh
+2008,Muzaffarnagar,"8,531.06",1.714626367,Uttar Pradesh
+2008,Pilibhit,"3,794.89",-9.328124627,Uttar Pradesh
+2008,Pratapgarh,"3,283.40",15.51018111,Uttar Pradesh
+2008,Rae Bareli,"4,028.71",4.958328883,Uttar Pradesh
+2008,Rampur,"3,865.72",-3.949869431,Uttar Pradesh
+2008,Saharanpur,"7,500.83",2.201448102,Uttar Pradesh
+2008,Sant Kabeer Nagar,"1,584.23",13.40147887,Uttar Pradesh
+2008,Sant Ravidas Nagar,"2,494.63",6.628169399,Uttar Pradesh
+2008,Shahjahanpur,"4,464.59",-9.555759487,Uttar Pradesh
+2008,Shravasti,"1,124.80",15.12440764,Uttar Pradesh
+2008,Siddharth Nagar,"2,340.45",5.338842306,Uttar Pradesh
+2008,Sitapur,"6,091.28",0.551679966,Uttar Pradesh
+2008,Sonbhadra,"4,989.13",7.456035495,Uttar Pradesh
+2008,Sultanpur,"4,830.92",7.338750353,Uttar Pradesh
+2008,Unnao,"4,874.87",5.778594615,Uttar Pradesh
+2008,Varanasi,"5,207.78",8.520512035,Uttar Pradesh
+2009, Agra,"11,234.70",16.0112142,Uttar Pradesh
+2009, Aligarh,"7,593.92",5.029985173,Uttar Pradesh
+2009, Allahabad,"10,790.97",2.951946084,Uttar Pradesh
+2009, Ambedkar Nagar,"2,926.78",2.175984919,Uttar Pradesh
+2009, Amethi,,,Uttar Pradesh
+2009, Amorha,"4,308.30",0.921535924,Uttar Pradesh
+2009,Auraiyya,"2,270.85",-4.227187611,Uttar Pradesh
+2009,Azamgarh,"5,270.39",11.42190896,Uttar Pradesh
+2009,Badaun,"6,597.43",2.855668464,Uttar Pradesh
+2009,Bagpat,"3,842.62",10.66975793,Uttar Pradesh
+2009,Bahraich,"3,353.63",5.833809333,Uttar Pradesh
+2009,Ballia,"3,557.83",1.153167087,Uttar Pradesh
+2009,Balrampur,"2,296.96",1.484070214,Uttar Pradesh
+2009,Banda,"2,528.93",3.395505912,Uttar Pradesh
+2009,Barabanki,"5,223.77",11.82642165,Uttar Pradesh
+2009,Bareilly,"8,520.60",7.17142699,Uttar Pradesh
+2009,Basti,"2,711.57",6.953050736,Uttar Pradesh
+2009,Bijnor,"9,071.25",6.983894479,Uttar Pradesh
+2009,BulandShahar,"8,873.95",6.482331441,Uttar Pradesh
+2009,Chandauli,"2,805.92",-2.72691345,Uttar Pradesh
+2009,Chitrakoot,"1,082.51",6.03071679,Uttar Pradesh
+2009,Deoria,"3,041.17",1.646100163,Uttar Pradesh
+2009,Etah,"3,101.52",-4.603545163,Uttar Pradesh
+2009,Etawa,"2,473.22",2.357362204,Uttar Pradesh
+2009,Faizabad,"3,691.55",4.593376268,Uttar Pradesh
+2009,Farrukhabad,"3,204.80",11.00489075,Uttar Pradesh
+2009,Fatehpur,"3,669.88",2.327682356,Uttar Pradesh
+2009,Firozabad,"4,501.77",6.345377921,Uttar Pradesh
+2009,Gautambudh Nagar,"14,155.71",7.964900773,Uttar Pradesh
+2009,Ghaziabad,"13,647.59",3.954788059,Uttar Pradesh
+2009,Ghazipur,"4,256.16",5.850402395,Uttar Pradesh
+2009,Gonda,"3,799.13",9.903725432,Uttar Pradesh
+2009,Gorakhpur,"6,681.29",7.872876663,Uttar Pradesh
+2009,Hamirpur,"2,119.38",10.05535534,Uttar Pradesh
+2009,Hardoi,"5,074.00",6.362462478,Uttar Pradesh
+2009,Hathras,"3,680.90",10.77272166,Uttar Pradesh
+2009,Jalaun,"3,349.25",6.198969481,Uttar Pradesh
+2009,Jaunpur,"4,766.72",3.975604542,Uttar Pradesh
+2009,Jhansi,"5,668.68",11.89325227,Uttar Pradesh
+2009,Kannauj,"2,751.00",6.832877032,Uttar Pradesh
+2009,Kanpur: Rural,"2,973.19",3.142291188,Uttar Pradesh
+2009,Kanpur: Urban,"14,894.42",12.56193226,Uttar Pradesh
+2009,Kanshiram Nagar,"2,585.31",10.29808911,Uttar Pradesh
+2009,Kaushambi,"2,334.97",11.29026877,Uttar Pradesh
+2009,Kheri,"5,976.18",9.697752879,Uttar Pradesh
+2009,Kushi Nagar,"3,477.69",0.532772905,Uttar Pradesh
+2009,Lalitpur,"2,248.70",8.019176082,Uttar Pradesh
+2009,Lucknow,"15,135.06",9.871479553,Uttar Pradesh
+2009,Maharajganj,"2,709.47",6.579314848,Uttar Pradesh
+2009,Mahoba,"1,849.80",8.092630792,Uttar Pradesh
+2009,Mainpuri,"3,054.92",6.119669996,Uttar Pradesh
+2009,Mathura,"5,675.41",-8.618982371,Uttar Pradesh
+2009,Mau,"3,336.33",20.18176775,Uttar Pradesh
+2009,Meerut,"10,125.46",7.879019043,Uttar Pradesh
+2009,Mirzapur,"3,332.33",4.377010515,Uttar Pradesh
+2009,Moradabad,"10,224.96",12.94579244,Uttar Pradesh
+2009,Muzaffarnagar,"9,940.31",16.51904922,Uttar Pradesh
+2009,Pilibhit,"4,059.31",6.967790898,Uttar Pradesh
+2009,Pratapgarh,"3,377.65",2.870500091,Uttar Pradesh
+2009,Rae Bareli,"4,329.42",7.464175878,Uttar Pradesh
+2009,Rampur,"4,271.97",10.50903842,Uttar Pradesh
+2009,Saharanpur,"8,633.31",15.09806248,Uttar Pradesh
+2009,Sant Kabeer Nagar,"1,690.15",6.685897881,Uttar Pradesh
+2009,Sant Ravidas Nagar,"2,386.29",-4.342928611,Uttar Pradesh
+2009,Shahjahanpur,"4,780.94",7.085757035,Uttar Pradesh
+2009,Shravasti,"1,130.61",0.516536273,Uttar Pradesh
+2009,Siddharth Nagar,"2,387.39",2.005597214,Uttar Pradesh
+2009,Sitapur,"6,538.64",7.344269185,Uttar Pradesh
+2009,Sonbhadra,"5,104.03",2.303006737,Uttar Pradesh
+2009,Sultanpur,"4,931.65",2.085110083,Uttar Pradesh
+2009,Unnao,"5,167.21",5.996877865,Uttar Pradesh
+2009,Varanasi,"6,399.89",22.89094393,Uttar Pradesh
+2010, Agra,"12,187.12",8.477484935,Uttar Pradesh
+2010, Aligarh,"8,596.72",13.20530108,Uttar Pradesh
+2010, Allahabad,"12,650.46",17.23190779,Uttar Pradesh
+2010, Ambedkar Nagar,"3,236.10",10.56861124,Uttar Pradesh
+2010, Amethi,"2,910.09",,Uttar Pradesh
+2010, Amorha,"4,101.77",-4.793770165,Uttar Pradesh
+2010,Auraiyya,"2,442.36",7.552678512,Uttar Pradesh
+2010,Azamgarh,"6,162.94",16.93517937,Uttar Pradesh
+2010,Badaun,"6,311.94",-4.327291082,Uttar Pradesh
+2010,Bagpat,"4,411.91",14.81515216,Uttar Pradesh
+2010,Bahraich,"3,456.30",3.061458778,Uttar Pradesh
+2010,Ballia,"4,247.48",19.38400654,Uttar Pradesh
+2010,Balrampur,"2,356.37",2.586462106,Uttar Pradesh
+2010,Banda,"2,927.16",15.74697599,Uttar Pradesh
+2010,Barabanki,"5,545.19",6.153027411,Uttar Pradesh
+2010,Bareilly,"8,854.48",3.918503392,Uttar Pradesh
+2010,Basti,"2,860.15",5.479482366,Uttar Pradesh
+2010,Bijnor,"9,063.89",-0.081135455,Uttar Pradesh
+2010,BulandShahar,"9,665.14",8.915871737,Uttar Pradesh
+2010,Chandauli,"3,104.72",10.64891373,Uttar Pradesh
+2010,Chitrakoot,"1,180.31",9.034558572,Uttar Pradesh
+2010,Deoria,"3,576.14",17.59092718,Uttar Pradesh
+2010,Etah,"3,367.58",8.578374474,Uttar Pradesh
+2010,Etawa,"2,684.17",8.529366575,Uttar Pradesh
+2010,Faizabad,"4,314.09",16.86391895,Uttar Pradesh
+2010,Farrukhabad,"3,557.79",11.01441588,Uttar Pradesh
+2010,Fatehpur,"4,291.54",16.93951846,Uttar Pradesh
+2010,Firozabad,"4,764.20",5.829484847,Uttar Pradesh
+2010,Gautambudh Nagar,"13,833.78",-2.274205956,Uttar Pradesh
+2010,Ghaziabad,"13,963.09",2.311763469,Uttar Pradesh
+2010,Ghazipur,"4,928.67",15.80086275,Uttar Pradesh
+2010,Gonda,"4,469.69",17.65035679,Uttar Pradesh
+2010,Gorakhpur,"7,477.98",11.92419428,Uttar Pradesh
+2010,Hamirpur,"2,290.39",8.068869198,Uttar Pradesh
+2010,Hardoi,"5,502.42",8.44343713,Uttar Pradesh
+2010,Hathras,"4,302.12",16.87685077,Uttar Pradesh
+2010,Jalaun,"3,555.65",6.162573711,Uttar Pradesh
+2010,Jaunpur,"5,301.29",11.21462977,Uttar Pradesh
+2010,Jhansi,"6,036.94",6.49639775,Uttar Pradesh
+2010,Kannauj,"3,017.07",9.671755725,Uttar Pradesh
+2010,Kanpur: Rural,"3,244.10",9.111762114,Uttar Pradesh
+2010,Kanpur: Urban,"16,343.96",9.732101015,Uttar Pradesh
+2010,Kanshiram Nagar,"2,780.87",7.564276624,Uttar Pradesh
+2010,Kaushambi,"2,799.20",19.88162589,Uttar Pradesh
+2010,Kheri,"6,226.24",4.184278251,Uttar Pradesh
+2010,Kushi Nagar,"3,767.86",8.343756919,Uttar Pradesh
+2010,Lalitpur,"2,495.34",10.96811491,Uttar Pradesh
+2010,Lucknow,"16,511.48",9.094248718,Uttar Pradesh
+2010,Maharajganj,"3,075.05",13.49267569,Uttar Pradesh
+2010,Mahoba,"2,075.71",12.21267164,Uttar Pradesh
+2010,Mainpuri,"3,211.81",5.135650033,Uttar Pradesh
+2010,Mathura,"6,285.51",10.74988415,Uttar Pradesh
+2010,Mau,"3,690.14",10.60476632,Uttar Pradesh
+2010,Meerut,"10,916.35",7.810904393,Uttar Pradesh
+2010,Mirzapur,"3,647.50",9.457946842,Uttar Pradesh
+2010,Moradabad,"10,234.18",0.090171502,Uttar Pradesh
+2010,Muzaffarnagar,"10,508.46",5.715616515,Uttar Pradesh
+2010,Pilibhit,"4,423.56",8.973199879,Uttar Pradesh
+2010,Pratapgarh,"4,059.13",20.17615798,Uttar Pradesh
+2010,Rae Bareli,"3,496.22",-19.24507209,Uttar Pradesh
+2010,Rampur,"4,357.43",2.000482213,Uttar Pradesh
+2010,Saharanpur,"9,833.27",13.89918814,Uttar Pradesh
+2010,Sant Kabeer Nagar,"1,893.82",12.05040973,Uttar Pradesh
+2010,Sant Ravidas Nagar,"2,644.79",10.83271522,Uttar Pradesh
+2010,Shahjahanpur,"5,241.29",9.628859597,Uttar Pradesh
+2010,Shravasti,"1,454.36",28.63498465,Uttar Pradesh
+2010,Siddharth Nagar,"2,946.21",23.40715174,Uttar Pradesh
+2010,Sitapur,"7,216.01",10.35949372,Uttar Pradesh
+2010,Sonbhadra,"5,110.97",0.135970988,Uttar Pradesh
+2010,Sultanpur,"3,767.84",-23.59879553,Uttar Pradesh
+2010,Unnao,"5,838.82",12.99753639,Uttar Pradesh
+2010,Varanasi,"6,894.57",7.729507851,Uttar Pradesh
+2011, Agra,"13,058.94",7.153617918,Uttar Pradesh
+2011, Aligarh,"9,089.34",5.730325054,Uttar Pradesh
+2011, Allahabad,"12,755.14",0.827479791,Uttar Pradesh
+2011, Ambedkar Nagar,"3,272.78",1.133463119,Uttar Pradesh
+2011, Amethi,"3,026.51",4.000563556,Uttar Pradesh
+2011, Amorha,"5,597.33",36.46133255,Uttar Pradesh
+2011,Auraiyya,"3,126.83",28.02494309,Uttar Pradesh
+2011,Azamgarh,"5,379.55",-12.71130337,Uttar Pradesh
+2011,Badaun,"7,076.29",12.10958913,Uttar Pradesh
+2011,Bagpat,"4,253.67",-3.586655213,Uttar Pradesh
+2011,Bahraich,"3,630.16",5.030234644,Uttar Pradesh
+2011,Ballia,"4,602.92",8.368256001,Uttar Pradesh
+2011,Balrampur,"3,132.64",32.94346813,Uttar Pradesh
+2011,Banda,"3,169.17",8.267740745,Uttar Pradesh
+2011,Barabanki,"4,918.11",-11.30853947,Uttar Pradesh
+2011,Bareilly,"11,135.14",25.75713085,Uttar Pradesh
+2011,Basti,"3,181.55",11.23717288,Uttar Pradesh
+2011,Bijnor,"9,192.19",1.415507028,Uttar Pradesh
+2011,BulandShahar,"10,288.18",6.446259444,Uttar Pradesh
+2011,Chandauli,"3,539.14",13.99224407,Uttar Pradesh
+2011,Chitrakoot,"2,935.48",148.704154,Uttar Pradesh
+2011,Deoria,"3,883.06",8.582438048,Uttar Pradesh
+2011,Etah,"3,595.60",6.771034393,Uttar Pradesh
+2011,Etawa,"3,027.12",12.77676153,Uttar Pradesh
+2011,Faizabad,"4,373.02",1.365989119,Uttar Pradesh
+2011,Farrukhabad,"3,364.40",-5.435677766,Uttar Pradesh
+2011,Fatehpur,"4,597.96",7.140094232,Uttar Pradesh
+2011,Firozabad,"4,861.69",2.046303682,Uttar Pradesh
+2011,Gautambudh Nagar,"17,223.71",24.50472684,Uttar Pradesh
+2011,Ghaziabad,"15,310.88",9.652519607,Uttar Pradesh
+2011,Ghazipur,"4,917.59",-0.224807098,Uttar Pradesh
+2011,Gonda,"4,732.39",5.877365097,Uttar Pradesh
+2011,Gorakhpur,"7,702.55",3.00308372,Uttar Pradesh
+2011,Hamirpur,"2,358.66",2.980715075,Uttar Pradesh
+2011,Hardoi,"6,164.59",12.03415952,Uttar Pradesh
+2011,Hathras,"4,197.41",-2.433916302,Uttar Pradesh
+2011,Jalaun,"3,672.49",3.286037715,Uttar Pradesh
+2011,Jaunpur,"5,461.07",3.013983389,Uttar Pradesh
+2011,Jhansi,"6,690.54",10.82667709,Uttar Pradesh
+2011,Kannauj,"2,987.53",-0.979095613,Uttar Pradesh
+2011,Kanpur: Rural,"3,407.64",5.041151629,Uttar Pradesh
+2011,Kanpur: Urban,"16,776.56",2.646849356,Uttar Pradesh
+2011,Kanshiram Nagar,"3,286.17",18.17057252,Uttar Pradesh
+2011,Kaushambi,"3,012.44",7.617890826,Uttar Pradesh
+2011,Kheri,"7,532.84",20.98537801,Uttar Pradesh
+2011,Kushi Nagar,"4,215.04",11.86827536,Uttar Pradesh
+2011,Lalitpur,"2,462.83",-1.302828472,Uttar Pradesh
+2011,Lucknow,"17,885.49",8.321543556,Uttar Pradesh
+2011,Maharajganj,"3,164.64",2.913448562,Uttar Pradesh
+2011,Mahoba,"2,394.30",15.34848317,Uttar Pradesh
+2011,Mainpuri,"3,400.52",5.875503221,Uttar Pradesh
+2011,Mathura,"7,264.50",15.57534711,Uttar Pradesh
+2011,Mau,"3,623.52",-1.805351558,Uttar Pradesh
+2011,Meerut,"11,918.76",9.182648046,Uttar Pradesh
+2011,Mirzapur,"3,954.20",8.408498972,Uttar Pradesh
+2011,Moradabad,"10,396.03",1.581465247,Uttar Pradesh
+2011,Muzaffarnagar,"10,982.67",4.512649808,Uttar Pradesh
+2011,Pilibhit,"4,424.77",0.027353534,Uttar Pradesh
+2011,Pratapgarh,"3,774.04",-7.023426202,Uttar Pradesh
+2011,Rae Bareli,"3,595.04",2.826481171,Uttar Pradesh
+2011,Rampur,"4,512.60",3.56104401,Uttar Pradesh
+2011,Saharanpur,"8,893.05",-9.561620905,Uttar Pradesh
+2011,Sant Kabeer Nagar,"2,102.46",11.0168865,Uttar Pradesh
+2011,Sant Ravidas Nagar,"3,230.77",22.15601239,Uttar Pradesh
+2011,Shahjahanpur,"6,095.47",16.29713296,Uttar Pradesh
+2011,Shravasti,"1,380.81",-5.057207294,Uttar Pradesh
+2011,Siddharth Nagar,"2,915.20",-1.052538685,Uttar Pradesh
+2011,Sitapur,"7,181.39",-0.479766519,Uttar Pradesh
+2011,Sonbhadra,"5,666.16",10.86271295,Uttar Pradesh
+2011,Sultanpur,"4,157.88",10.35181961,Uttar Pradesh
+2011,Unnao,"6,245.40",6.963393288,Uttar Pradesh
+2011,Varanasi,"7,450.18",8.058660656,Uttar Pradesh
