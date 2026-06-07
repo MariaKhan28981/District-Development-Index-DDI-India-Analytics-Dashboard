@@ -278,6 +278,25 @@ The dashboard includes:
 
 
 ---
+# 🎬 Dashnoard Snapshots
+   ![Home Page](assests/01_image.png)
+
+   ![State Overview](assests/02_image.png) 
+
+   ![Economic Performance](assests/03_image.png) 
+   
+   ![Automated Insights](assests/04_image.png) 
+   
+   ![District GDP Comparison](assests/05_image.png) 
+   
+   ![India District Development Map](assests/06_image.png)
+
+
+
+# Live Demo
+  
+  🔗 https://district-development-index-ddi-india-analytics-dashboard-pttsa.streamlit.app/
+
 
 # 🎯 Future Improvements
 
@@ -291,6 +310,8 @@ Possible extensions:
 
 
 ---
+
+
 
 # 👩‍💻 Author
 
