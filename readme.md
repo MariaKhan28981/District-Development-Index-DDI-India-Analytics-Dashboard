@@ -153,7 +153,7 @@ India-District-Development-Index/
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/MariaKhan28981>
 ```
 
 Move into project directory:
